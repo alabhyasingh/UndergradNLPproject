@@ -5,3 +5,4 @@ This is a project for Hate speech detection on twitter (Binary Classification). 
 The repository contains ipynb notebook and a .CSV file as the dataset
 
 For a detailed explanation of the project visit: 
+https://alabhya321.medium.com/hate-speech-detection-on-twitter-311ce34a8ff7
